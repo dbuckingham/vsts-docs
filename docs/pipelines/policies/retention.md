@@ -67,7 +67,7 @@ Global build retention policy settings can be managed from the **Pipelines** set
 
 ::: moniker-end
 
-The **maximum retention policy** sets the upper limit for how longs
+The **maximum retention policy** sets the upper limit for how long
 builds can be retained for all build pipelines.
 Authors of build pipelines cannot configure settings for their
 definitions beyond the values specified here.
